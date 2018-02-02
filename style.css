@@ -1,0 +1,16 @@
+h5 {
+    font-family: "Times-Roman", serif;
+    font-size: 1.5rem;
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    text-align: center;
+}
+
+.portfolioPic {
+    width: 300px;
+    margin: 1rem;
+}
+
+.card-img-overlay {
+    top: 8rem;
+}
